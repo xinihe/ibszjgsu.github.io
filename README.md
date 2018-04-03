@@ -3,7 +3,7 @@
 
 **申请表格管理**
 
-1. [草稿]( /admin/ApplicationSys/AppSysInfo.md )
+1. [草稿](admin/ApplicationSys/AppSysInfo.md)
 
 **工具列表**
 
