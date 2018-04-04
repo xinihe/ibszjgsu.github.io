@@ -44,11 +44,9 @@ Audiance from School of Finance and School of Accounting
 
 ### Speaker ###
 
-
-
 Dr. Sultan Sikandar Mriza, serving as an Assistant Professor at International Business School, Zhejiang Gongshang University.
 
 Dr. Sultan have several publications in international academic journals and conference papers.  Major part of his research focuses on the areas such as corporate financing policies, the impact of macroeconomic factors on corporate financing behavior, corporate governance, and behavioral finance
 
 
-Please download the flyer and PPT 
+Please download the [flyer](../attachment/Seminar20180403flyer.pdf) and PPT 
