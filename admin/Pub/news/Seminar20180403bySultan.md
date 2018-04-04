@@ -37,9 +37,11 @@ In this conference, Dr. Sultan mainly focused on the following points:
 ### Photo ###
 
 ![sultan](/admin/Pub/news/img/seminar20180403img01.jpg)
+
 Speaker: Sultan 
 
 ![Audiance](/admin/Pub/news/img/seminar20180403img02.jpg)
+
 Audiance from School of Finance and School of Accounting
 
 ### Speaker ###
