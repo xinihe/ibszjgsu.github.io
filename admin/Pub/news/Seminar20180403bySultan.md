@@ -36,10 +36,10 @@ In this conference, Dr. Sultan mainly focused on the following points:
 
 ### Photo ###
 
-![sultan](/img/seminar20180403img01.jpg)
+![sultan](/admin/Pub/news/img/seminar20180403img01.jpg)
 Speaker: Sultan 
 
-![Audiance](/img/seminar20180403img02.jpg)
+![Audiance](/admin/Pub/news/img/seminar20180403img02.jpg)
 Audiance from School of Finance and School of Accounting
 
 ### Speaker ###
@@ -49,4 +49,4 @@ Dr. Sultan Sikandar Mriza, serving as an Assistant Professor at International Bu
 Dr. Sultan have several publications in international academic journals and conference papers.  Major part of his research focuses on the areas such as corporate financing policies, the impact of macroeconomic factors on corporate financing behavior, corporate governance, and behavioral finance
 
 
-Please download the [flyer](../attachment/Seminar20180403flyer.pdf) and PPT 
+Please download the [flyer](/admin/Pub/news/attachment/Seminar20180403flyer.pdf) and PPT 
