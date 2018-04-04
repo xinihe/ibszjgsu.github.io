@@ -44,6 +44,7 @@ Speaker: Sultan
 
 Audiance from School of Finance and School of Accounting
 
+
 ### Speaker ###
 
 Dr. Sultan Sikandar Mriza, serving as an Assistant Professor at International Business School, Zhejiang Gongshang University.
@@ -52,3 +53,4 @@ Dr. Sultan have several publications in international academic journals and conf
 
 Please download the [flyer](/admin/Pub/news/attachment/Seminar20180403flyer.pdf) and PPT 
 
+**Next seminar would be 17th April, detailed information would be avaialble soon.**
