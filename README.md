@@ -9,5 +9,5 @@
 
 1. 亿方云
 2. 有道云笔记
-3. GitHub
+3. [GitHub](admin/Tool/如何使用Git.md)
 4. 微约日历
