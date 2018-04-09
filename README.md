@@ -4,6 +4,8 @@
 **申请表格管理**
 
 1. [草稿](admin/ApplicationSys/AppSysInfo.md)
+2. 学院的优势 
+3. 色调：工商蓝、白色、灰色、黑色
 
 **工具列表**
 
