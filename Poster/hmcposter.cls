@@ -65,6 +65,7 @@
 \RequirePackage{color}
 \definecolor{hmcgold}{cmyk}{0,0.2,0.5,0.3}
 \definecolor{hmcorange}{cmyk}{0,0.3,1.0,0}
+\definecolor{gsblue}{cmyk}{1,0.6667,0,0.6}
 \definecolor{black}{rgb}{0,0,0}
 \definecolor{dkblue}{rgb}{0,0,0.47}
 \definecolor{green}{rgb}{0,1,0}
@@ -197,7 +198,7 @@ footskip=1in,
 %% For thesis.
 \if@thesis
 \fancyhead[L]{\raisebox{1.5in}{\@hmclogo}}
-%\fancyhead[R]{\resizebox{10in}{!}{\includegraphics{hmcmath-hexen-logo.png}}}
+\fancyhead[R]{\resizebox{4in}{!}{\includegraphics{ibs_logo.png}}}
 \fi
 
 
@@ -206,7 +207,7 @@ footskip=1in,
 \fancyhead[C]{%
   \begin{center}
     \color{black}\Large\textsf{\@posteryear\ \@sponsor\ \@department\ Clinic}\\%
-    \color{hmcorange}\fontsize{100pt}{120pt}\selectfont\textsf{\textbf{\@title}}
+    \color{gsblue}\fontsize{100pt}{120pt}\selectfont\textsf{\textbf{\@title}}
   \end{center}
 }
   \fi
@@ -216,8 +217,8 @@ footskip=1in,
 \fancyhead[C]{%
   \begin{center}
     {\color{black}\Large\textsf{\@class}\\}%
-    {\color{hmcorange}\fontsize{100pt}{100pt}\selectfont\textsf{\textbf{\@title}}\\[0.25em]}
-    {\color{black}\Large\textsf{\@author}\\[-0.5em]}
+    {\color{gsblue}\fontsize{80pt}{80pt}\selectfont\textsc{\textbf{\@title}}\\[0.25em]}
+    {\color{black}\Large\textsc{\@author}\\[-0.5em]}
   \end{center}
 }
 \fi
@@ -259,10 +260,10 @@ footskip=1in,
 %%%
 %%% This code taken from fancyhdr.sty; written by Piet van Oostrum.
 
-\newcommand{\@rulecolor}{hmcorange}
+\newcommand{\@rulecolor}{gsblue}
 
 \if@thesis
-\renewcommand{\@rulecolor}{hmcorange}
+\renewcommand{\@rulecolor}{gsblue}
 \fi
 
 \renewcommand{\footrule}{{\color{\@rulecolor}\if@fancyplain\let\footrulewidth\plainfootrulewidth\fi
@@ -312,7 +313,7 @@ footskip=1in,
 \raggedbottom
 \raggedright
 \thispagestyle{fancy}
-%{\color{hmcorange}\rule{\textwidth}{2pt}}
+%{\color{gsblue}\rule{\textwidth}{2pt}}
 \begin{multicols*}{3}
 }%
 {\end{multicols*}
